@@ -72,8 +72,8 @@ if __name__ == "__main__":
     main()
 ~~~
 
-# text1
+# text1.txt
 hello world my name is keum nuri
 
-# text2
+# text2.txt
 hello world my name is lee seunghyun
